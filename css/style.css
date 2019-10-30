@@ -317,7 +317,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    height: 600px;
+    background-position: 50% 50% !important;
+    height: 400px;
   }
 }
 .fh5co-cover .display-t,
@@ -1042,7 +1043,7 @@ form label {
 .heart i {
   font-size: 20px;
   background: #fff;
-  padding: 20px;
+  padding: 12px;
   color: #F14E95;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1842,5 +1843,5 @@ form label {
 
 /*# sourceMappingURL=style.css.map */
 .remove{
-display:none;
+  display: none;
 }
