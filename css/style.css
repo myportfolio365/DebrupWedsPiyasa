@@ -418,6 +418,9 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-event .event-wrap {
     margin-bottom: 10px;
   }
+  #fh5co-event{
+    background-position: 24% 43% !important;
+  }
 }
 #fh5co-counter .event-wrap h3,
 #fh5co-event .event-wrap h3 {
