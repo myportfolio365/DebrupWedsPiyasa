@@ -1042,7 +1042,7 @@ form label {
 .heart i {
   font-size: 20px;
   background: #fff;
-  padding: 20px;
+  padding: 12px;
   color: #F14E95;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1841,3 +1841,6 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+.remove{
+  display: none;
+}
